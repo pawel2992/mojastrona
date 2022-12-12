@@ -1,10 +1,11 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+    <html lang="pl-PL">
+    <html>
      <head>
-     </head>
-     <body>
-     </body>
-</html>
+         <meta charset="utf-8">
+               <title> Paweł Jankowski </title>
+    </head>
+<body>
  <table border=2>
 <caption> tabela paweł Jankowski </caption>
 <thead>
