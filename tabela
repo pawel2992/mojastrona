@@ -5,3 +5,74 @@
      <body>
      </body>
 </html>
+ <table border=2>
+<caption> tabela paweł Jankowski </caption>
+<thead>
+<tr>
+<tr style="background-color: #507B51; ">
+<th>model karty graficznej</th>
+<th>taktowanie bazowe</th>
+<th>rozmiar pamieci</th>
+<th>szyna pamieci</th>
+<th>typ chlodzenia</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color: #256421; ">
+<td>GTX 1650</td>
+<td>8002 MHz</td>
+<td>4 GB</td>
+<td>128 bit</td>
+<td style="background-color: #A9AAAC; "> aktywne</td>
+</tr>
+<tr> 
+<tr style="background-color: #2C8926; ">
+<td>RTX 3050</td>
+<td>14000 MHz</td>
+<td>8 GB</td>
+<td>128 bit</td>
+<td style="background-color: #A9AAAC; "> aktywne</td>
+</tr>
+<tr>
+<tr style="background-color: #76ED6E; ">
+<td>RTX 3060 Ti</td>
+<td>14000 MHz</td>
+<td>8 GB</td>
+<td>256 bit</td>
+<td style="background-color: #A9AAAC; "> aktywne</td>
+</tr>
+<tr>
+<tr style="background-color: #92E68D; ">
+<td>RTX 3090 </td>
+<td>19500 MHz</td>
+<td>24 GB</td>
+<td>384 bit</td>
+<td style="background-color: #A9AAAC; "> aktywne</td>
+</tr>
+<tr>
+<tr style="background-color: #25991D; ">
+<td>RTX 3080</td>
+<td>19000 MHz</td>
+<td>12 GB</td>
+<td>384 bit</td>
+<td style="background-color: #A9AAAC; "> aktywne</td>
+</tr>
+<tr>
+<tr style="background-color: #4CBB4A; ">
+<td>RTX 3070</td>
+<td>14000 MHz</td>
+<td>8 GB</td>
+<td>256 bit</td>
+<td style="background-color: #A9AAAC; "> aktywne</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+   
+ </body> 
+ </html>
+
+
+</body>
+</html>
